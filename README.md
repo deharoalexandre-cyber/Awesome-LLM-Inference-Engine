@@ -79,6 +79,7 @@ We classify LLM inference engines along the following dimensions:
 ## 🧭 Open Source LLM Gateways and Serving Systems
 
 - [Ferro Labs AI Gateway](https://github.com/ferro-labs/ai-gateway)
+- [KV Cache Store](https://kvcachestore.com/) - Hosted KV-cache artifact registry and open-source Rust CLI for precomputing, quantizing, verifying, and sharing attention-state artifacts across self-hosted LLM inference. ([CLI source](https://github.com/kvcachestore/kvcdn))
 
 ## 💼 Commercial Inference Engines
 
