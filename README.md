@@ -252,6 +252,7 @@ We classify LLM inference optimization techniques into several major categories 
 | llguidance / GBNF         | Lightweight grammar-based decoding     | [GBNF](https://github.com/ggml-org/llama.cpp/blob/master/grammars/README.md), [llguidance](https://github.com/guidance-ai/llguidance)                    |
 | OpenAI Structured Outputs | API-supported structured outputs       | [OpenAI](https://platform.openai.com/docs/guides/structured-outputs)                                                  |
 | JSONSchemaBench           | Benchmark for structured decoding      | [Geng et al. (2025)](https://arxiv.org/abs/2501.10868)                                            |
+| StructEval                | Benchmarks structured generation and conversion across 18 text and visual formats | [Yang et al. (2026)](https://openreview.net/forum?id=buDwV7LUA7), [Code](https://github.com/TIGER-AI-Lab/StructEval) |
 | StructTest / SoEval       | Tools for structured output validation | [Chen et al. (2024)](https://arxiv.org/abs/2412.18011), [Liu et al. (2024)](https://doi.org/10.1016/j.ipm.2024.103809)                          |
 
 
