@@ -51,6 +51,7 @@ We classify LLM inference engines along the following dimensions:
 ## 🔓 Open Source Inference Engines
 
 - [bitnet.cpp](https://github.com/microsoft/BitNet)
+- [deepseek-v4-flash-0731-in-c](https://github.com/shyringo/deepseek-v4-flash-0731-in-c)
 - [DeepSpeed-FastGen](https://github.com/deepspeedai/DeepSpeed/tree/master/blogs/deepspeed-fastgen) 🌐 [Webpage](https://www.deepspeed.ai/) 📄 [Paper](https://arxiv.org/abs/2401.08671)
 - [DistServe](https://github.com/LLMServe/DistServe) 📄 [Paper](https://arxiv.org/abs/2401.09670)
 - [EIE - Elyne Inference Engine](https://github.com/deharoalexandre-cyber/EIE)
